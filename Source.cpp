@@ -8,7 +8,6 @@
 #include <cassert>
 #include <string>
 
-// TODO scenario and test functions
 
 /* This code implements the Game of Life into C++, with the rules of 
 	- If a live cell has 2 or 3 live neighbours it stays alive, otherwise it dies
